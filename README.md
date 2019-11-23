@@ -1,2 +1,2 @@
-# Socail_Osint
+# Social_Osint
 20 farklı sosyal medya sitesinde kullanıcı adı araması yapmaktadır
